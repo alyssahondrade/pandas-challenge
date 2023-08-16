@@ -14,7 +14,7 @@ Github repository at: [https://github.com/alyssahondrade/pandas-challenge.git](h
     3. [School Summary](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#school-summary)
     4. [Top and Bottom Performing Schools (by % Overall Passing)](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#top-and-bottom-performing-schools-by--overall-passing)
     5. [Maths and Reading Scores by Year](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#maths-and-reading-scores-by-year)
-    6. [Scores by School Spending and School Size]
+    6. [Scores by School Spending and School Size](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#scores-by-school-spending-and-school-size)
     7. [Scores by School Type](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#scores-by-school-type)
 3. [Analysis & Results](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#analysis--results)
 4. [References](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#references)
