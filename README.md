@@ -42,6 +42,7 @@ The task is broken down into sections, each requiring a dataframe as an output (
 - Scores by School Type - `type_summary`
 
 ### Repository Structure
+- `Images` directory contains the screenshots of each dataframe results.
 - `PyCitySchools` directory contains the Jupyter notebook of the same name.
 - `Resources` directory contains the datasets: [`schools_complete.csv`](https://github.com/alyssahondrade/pandas-challenge/blob/main/Resources/schools_complete.csv) and [`students_complete.csv`](https://github.com/alyssahondrade/pandas-challenge/blob/main/Resources/students_complete.csv).
 
