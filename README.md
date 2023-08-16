@@ -9,14 +9,14 @@ Github repository at: [https://github.com/alyssahondrade/pandas-challenge.git](h
     2. [Repository Structure](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#repository-structure)
     3. [Dataset](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#dataset)
 2. [Approach](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#approach)
-    1. [Initial Dataframe]
-    2. [Local Government Area (LGA) Summary]
-    3. [School Summary]
-    4. [Top and Bottom Performing Schools (by % Overall Passing)]
-    5. [Maths and Reading Scores by Year]
-    6. [Scores by School Spending]
-    7. [Scores by School Size]
-    8. [Scores by School Type]
+    1. [Initial Dataframe](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#initial-dataframe)
+    2. [Local Government Area (LGA) Summary](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#local-government-area-lga-summary)
+    3. [School Summary](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#school-summary)
+    4. [Top and Bottom Performing Schools (by % Overall Passing)](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#top-and-bottom-performing-schools-by--overall-passing)
+    5. [Maths and Reading Scores by Year](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#maths-and-reading-scores-by-year)
+    6. [Scores by School Spending](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#scores-by-school-spending)
+    7. [Scores by School Size](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#scores-by-school-size)
+    8. [Scores by School Type](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#scores-by-school-type)
 3. [Analysis & Results](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#analysis--results)
 4. [References](https://github.com/alyssahondrade/pandas-challenge/blob/main/README.md#references)
 
