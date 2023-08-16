@@ -166,4 +166,22 @@ Independent schools perform better than Government schools. This confirm the obs
 | Scores by School Type |
 
 ## References
+Use of the `.map()` function is derived from the Bootcamp Week 4 Day 3. The bootcamp also provided the starter code and code snippets (for bins and labels).
 
+- [1] Filter Pandas Dataframe with multiple conditions [https://www.geeksforgeeks.org/filter-pandas-dataframe-with-multiple-conditions/](https://www.geeksforgeeks.org/filter-pandas-dataframe-with-multiple-conditions/)
+
+- [2] Pandas Styler.format [https://pandas.pydata.org/pandas-docs/version/0.18/generated/pandas.formats.style.Styler.format.html](https://pandas.pydata.org/pandas-docs/version/0.18/generated/pandas.formats.style.Styler.format.html)
+
+- [3] Pandas sort_index [https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_index.html](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_index.html)
+
+- [4] Create DataFrame from Multiple Series [https://sparkbyexamples.com/pandas/pandas-create-dataframe-from-multiple-series/](https://sparkbyexamples.com/pandas/pandas-create-dataframe-from-multiple-series/)
+
+- [5] Assigning existing column to the DataFrame index with set_index() [https://note.nkmk.me/en/python-pandas-set-index/](https://note.nkmk.me/en/python-pandas-set-index/)
+
+- [6] Pandas Cut [https://pandas.pydata.org/docs/reference/api/pandas.cut.html](https://pandas.pydata.org/docs/reference/api/pandas.cut.html)
+
+- [7] Image Caption in Markdown [https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll](https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll)
+
+- [8] Display images side-by-side [https://stackoverflow.com/questions/24319505/how-can-one-display-images-side-by-side-in-a-github-readme-md](https://stackoverflow.com/questions/24319505/how-can-one-display-images-side-by-side-in-a-github-readme-md)
+
+- [9] Tennessee's Student Teacher Achievement Ratio (STAR) Project [https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/10766](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/10766)
